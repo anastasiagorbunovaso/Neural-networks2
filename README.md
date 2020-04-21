@@ -16,7 +16,7 @@
 
 Средняя точность детектирования объектов, количество пропущенных объектов, количество ложных тревог для порогов IoU = 0.5, 0.75, 0.9
 
-![Image alt](https://github.com/anastasiagorbunovaso/Neural-networks_2/blob/master/%D0%9E%D0%B1%D1%89%D0%B5%D0%B5_1.JPG)
+![Image alt](https://github.com/anastasiagorbunovaso/Neural-networks_2/blob/master/%D0%9E%D0%B1%D1%89%D0%B5%D0%B5_1_1.JPG)
 
 **Таблица для пункта 5**
 
